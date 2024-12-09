@@ -1,7 +1,7 @@
 //#############################################################################
 //
 // FILE:   epwm_ex4_digital_compare.c
-//
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@2
 // TITLE:  ePWM Using Digital Compare Submodule.
 //
 //! \addtogroup driver_example_list
