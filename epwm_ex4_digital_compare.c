@@ -82,7 +82,7 @@ __interrupt void epwm1TZISR(void);
 //zzzzzzzzzzzzzzzzzz
 /////////////haahahahahahahhahaha
 sr
-//nirdheshhhh
+//nirdheshhhhhh
 void main(void)
 {
     //
